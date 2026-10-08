@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Priya",
+    "company": "Acme Corp",
+    "request": "Fix the invoice syncing issue that began yesterday before tomorrow's month-end close.",
+    "urgency": "high",
+    "file": "email1.txt"
+  },
+  {
+    "name": "Tom",
+    "company": "BlueSky Labs",
+    "request": "Send pricing for 50 additional seats.",
+    "urgency": "low",
+    "file": "email2.txt"
+  },
+  {
+    "name": "Maria",
+    "company": "Nova Health",
+    "request": "Reporting that the dashboard is slow in the mornings.",
+    "urgency": "low",
+    "file": "email3.txt"
+  }
+]
