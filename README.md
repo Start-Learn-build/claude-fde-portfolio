@@ -8,6 +8,8 @@ returns name, company, request and urgency as structured JSON.
 - System prompts vs user messages
 
 ## Run it
+```
 pip3 install anthropic
 export ANTHROPIC_API_KEY=your-key
 python3 extract.py
+```
